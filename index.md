@@ -1,6 +1,9 @@
 ## Welcome to GitHub Pages
 
-![Calendar](C:\Users\magal\Desktop\calendar\Calendar.PNG)
+<iframe src=
+"https://lmduarte.github.io/Calendar/Calendar.html"
+style="width:100%; height:400px;"
+></iframe>
 
 You can use the [editor on GitHub](https://github.com/LMDuarte/Calendar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
